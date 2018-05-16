@@ -1,0 +1,8 @@
+#:C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.DADapper\Cibertec.DADapper.xproj
+#:C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Web\Cibertec.Web.xproj
+C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Web\Cibertec.Web.xproj|C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Business\Cibertec.Business.xproj
+C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Web\Cibertec.Web.xproj|C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.DADapper\Cibertec.DADapper.xproj
+C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Web\Cibertec.Web.xproj|C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.UnitOfWork\Cibertec.UnitOfWork.xproj
+C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Business\Cibertec.Business.xproj|C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Models\Cibertec.Models.xproj
+C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Business\Cibertec.Business.xproj|C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.UnitOfWork\Cibertec.UnitOfWork.xproj
+C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.UnitOfWork\Cibertec.UnitOfWork.xproj|C:\Users\Jordy\Documents\Visual Studio 2015\Projects\SlnCibertecJordy\src\Cibertec.Repository\Cibertec.Repository.xproj
